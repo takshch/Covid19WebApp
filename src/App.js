@@ -38,7 +38,8 @@ export default class App extends Component{
             return <h1 className="d-flex justify-content-center">Loading...</h1>
         }
         return <React.Fragment>
-                    <SideBarNav lg="1" size="0" xs="0" sm="0" md="0"/>
+                    {/* <SideBarNav lg="1" size="0" xs="0" sm="0" md="0"/> */}
+                    {/* No need of this  bad sidebar */}
                     <MainBody data={this.state.staticData}/>
             {/* <CovidCard data={this.state.staticData.Global} type="global"/> */}
         </React.Fragment>
