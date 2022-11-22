@@ -10,7 +10,7 @@
     "react": "^16.13.1",
     "react-custom-scrollbars": "^4.2.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.1",
     "react-scrollbars-custom": "^4.0.25",
     "styled-components": "^5.1.1"
   },
